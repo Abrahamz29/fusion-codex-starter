@@ -1,0 +1,21 @@
+# Persönliche CAD-Arbeit und Setup-Nachweise bleiben lokal.
+/Projekte/
+/downloads/
+/tmp/
+*.local.*
+*.log
+*.bak
+*.zip
+*.f3d
+*.f3z
+*.f2d
+*.f2t
+*.step
+*.stp
+*.stl
+*.3mf
+*.pdf
+.codex/
+.agents/
+.env*
+__pycache__/
